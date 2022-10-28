@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+Changes made:
+-Changed background color and font color
+-Changed font
+-Added border around chapters
+-Changed style of headings and made them bold
+-Changed spacing of paragraphs and headers so it looks nice
+-Changed style of poems so they are in the middle of the page and italicized
+-Centered images
+-There were no captions on images so no styles were applied to them
