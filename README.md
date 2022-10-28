@@ -30,3 +30,7 @@ Changes made:
 -Changed style of poems so they are in the middle of the page and italicized
 -Centered images
 -There were no captions on images so no styles were applied to them
+
+Resources:
+https://www.w3schools.com/howto/howto_css_image_text.asp
+https://www.w3schools.com/howto/howto_js_topnav.asp

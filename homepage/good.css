@@ -1,0 +1,66 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+    position: absolute;
+    font-family:'Lucida Sans';
+    top: 40%;
+    left: 50%;
+    font-size: 80px;
+    transform: translate(-50%, -50%);
+  }
+  /* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgb(31, 13, 78);
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #9892d8;
+    color: white;
+}
+
+h1 {
+    font-family:'Lucida Sans';
+    font-size: 30px;
+    color:rgb(31, 13, 78);
+}
+
+p {
+    font-family:'Lucida Sans';
+    font-size: 16px;
+    color:rgb(31, 13, 78);
+    margin-top: 0%;
+}
+
+div.about-me {
+    line-height: 1.5;
+    margin-right: 60%;
+    float: left;
+    
+}
+
+img{
+	display:inline;
+    float: left;
+}
